@@ -1,0 +1,3 @@
+Parte 2:
+5. a) Error: Process completed with exit code 1.
+   b) Ele esperava o resultado 8, mas quando o sinal de "+" foi trocado pelo "-", o resultado passou a ser 2.
